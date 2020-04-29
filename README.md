@@ -1,4 +1,4 @@
-# XMLHTTPRequests
+# XMLHttpRequests
 
 * Creates a request object that contains relevant information that an API needs.
 * Sends that request object to the API endpoint provided.
@@ -9,7 +9,7 @@
 
 ![HTTP POST](./images/httprequest%20post.png)
 
-### Here is another code example of a XMLHTTPRequest
+### Here is another code example of a XMLHttpRequest
 
 ![codehttprequest](./images/httpgetcode.png)
 
