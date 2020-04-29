@@ -44,12 +44,13 @@
 
 ## Running this code
 
-You can run the code in the project by `cd` into the either GET or POST directory and running `http-server`.
+You can run the code in the project by `cd` into the either GET or POST directory and running `http-server` if you have it installed.
+* `sudo npm i -g http-server`
 
-All three examples will show a simple App using the various API calls. 
+All three examples will show a simple App using the various API calls.
 
 ![POST](./images/Screen%20Shot%202020-04-28%20at%205.37.24%20PM.png)  ![GET](./images/Screen%20Shot%202020-04-28%20at%205.36.38%20PM.png)
 
 
 TRY/CATCH with a Json formatter App.
-![json](./images/jsonbefore.png)    ![](./images/jsonafter.png)
+![json](./images/jsonbefore.png)    ![jsonresult](./images/jsonafter.png)
